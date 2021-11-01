@@ -14,7 +14,7 @@
                     }
                     
                     .logoimg {
-                        width: 60%;
+                        width: 100%;
                     }
                     
                     #h1 {
@@ -229,7 +229,7 @@
                             grid-template-columns: auto auto auto;
                         }
                         .logoimg {
-                            width: 80%;
+                            width: 100%;
                         }
                         #h1 {
                             font-size: 60px;
