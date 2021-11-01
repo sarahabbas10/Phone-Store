@@ -138,7 +138,7 @@ fetch("https://api-mobilespecs.azharimm.site/v2/brands/apple-phones-48?page=2")
             //End
         })
     })
-fetch("http://api-mobilespecs.azharimm.site/v2/brands/huawei-phones-58")
+fetch("https://api-mobilespecs.azharimm.site/v2/brands/huawei-phones-58")
     .then(function(response) {
         return response.json()
             //"http://api-mobilespecs.azharimm.site/v2/brands/samsung-phones-9"
@@ -272,7 +272,7 @@ fetch("http://api-mobilespecs.azharimm.site/v2/brands/huawei-phones-58")
     })
 
 
-fetch("http://api-mobilespecs.azharimm.site/v2/brands/samsung-phones-9")
+fetch("https://api-mobilespecs.azharimm.site/v2/brands/samsung-phones-9")
     .then(function(response) {
         return response.json()
             //"http://api-mobilespecs.azharimm.site/v2/brands/samsung-phones-9"
