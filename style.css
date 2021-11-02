@@ -16,6 +16,14 @@
                     .logoimg {
                         width: 100%;
                     }
+                    .centered {
+                                position: absolute;
+                                bottom: 50px;
+                                right: 140px;
+                                font-size: 40px;
+                                color: white;
+                                background-color: rgb(74, 178, 226);
+                            }
                     
                     #h1 {
                         font-size: 30px;
