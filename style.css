@@ -15,12 +15,13 @@
                     
                     .logoimg {
                         width: 100%;
+                        height: 70%;
                     }
                     .centered {
                                 position: absolute;
                                 bottom: 50px;
                                 right: 140px;
-                                font-size: 40px;
+                                font-size: 20px;
                                 color: white;
                                 background-color: rgb(74, 178, 226);
                             }
@@ -81,6 +82,7 @@
                     .img1 {
                         width: 100px;
                     }
+
                     
                     .phone {
                         width: 50%;
@@ -238,7 +240,16 @@
                         }
                         .logoimg {
                             width: 100%;
+                          
                         }
+                         .centered {
+                                    position: absolute;
+                                    bottom: 250px;
+                                    right: 370px;
+                                    font-size: 120px;
+                                    color: white;
+                                    background-color: rgb(74, 178, 226);
+                                }
                         #h1 {
                             font-size: 60px;
                         }
